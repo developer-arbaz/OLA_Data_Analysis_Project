@@ -47,7 +47,7 @@ Interactive dashboards were created to visualize insights:
 ## 📸 Dashboard Preview  
 *(Add your screenshots here)*  
 Example:  
-![Dashboard Screenshot](File 1.png)  
+![Dashboard Screenshot](https://github.com/developer-arbaz/OLA_Data_Analysis_Project/blob/d605d547aa8561c40366df728db2f1fa22990260/File%201.png)  
 
 ---
 
