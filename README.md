@@ -58,7 +58,9 @@ Interactive dashboards were created to visualize insights:
 
 ---
 
-## 🚀 How to Run  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/ola-data-analysis.git
+## 🤝 Connect with Me
+👤 **Arbaz Khan**  
+- 📧 Email: [arbazkhan21223@gmail.com](mailto:arbazkhan21223@gmail.com)  
+- 💼 LinkedIn: [Arbaz-Data-Analyst](https://www.linkedin.com/in/arbaz-data-analyst/)  
+- 🌐 Portfolio: [Developer Arbaz](https://developer-arbaz.github.io/developerarbaz.github.io/)  
+- 🐙 GitHub: [developer-arbaz](https://github.com/developer-arbaz)  
