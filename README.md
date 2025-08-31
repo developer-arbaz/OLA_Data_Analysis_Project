@@ -47,7 +47,7 @@ Interactive dashboards were created to visualize insights:
 ## 📸 Dashboard Preview  
 *(Add your screenshots here)*  
 Example:  
-![Dashboard Screenshot](./dashboard.png)  
+![Dashboard Screenshot](File 1.png)  
 
 ---
 
